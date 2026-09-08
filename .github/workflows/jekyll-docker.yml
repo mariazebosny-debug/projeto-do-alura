@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewposrt" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<main>
+    <style>
+        header {
+            background-color: #183C63;
+            color: #FFFFFF;
+            text-align: center;
+            max-width: 2000px;
+        }
+    </style>
+    <header>
+        <img src="imagemlogo.png" alt="Logotipo minimalista em fundo branco contendo a silhueta em azul da mascote Octocat do GitHub, posicionada ao lado direito de uma estrutura circular formada por linhas de ramificação de código (branches do Git) com nós circulares, variando nas cores azul e laranja.">
+        <h1>Fake News</h1>
+        <p>This is a header.</p>
+    </header>
+    <section>
+        <h2>Fake News</h2>
+        <p>This is a section.</p>
+    </section>
+    <footer>
+        <p>Footer</p>
+    </footer>
+<body>
+    <style>
+        body {
+            background-color: #626566;
+            color: rgb(255, 249, 249);
+        }
+    </style>
+</body>
+</html>
